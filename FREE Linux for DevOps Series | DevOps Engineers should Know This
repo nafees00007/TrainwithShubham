@@ -41,13 +41,26 @@ In this video: https://www.youtube.com/watch?v=AGQGOhtRcTo
       1.Window is having "commercial licence" which is paid whereas linux is having "GPL(general public licence)" which is free for public.
       2.Linux generally focuses on development,networking,terminal,programming,scripting,No AntiVirus required
       3. Windows is used for general purpose which is GUI oriented things.
-
-23.38
+      4.etcetera
 
 -  5) Software remote location server tools?
+      1.RDP
+      2.SSH 
+      3.etcetera
+
 -  6) What are kernel, Bootloader, and shell?
--  7) Desktop environment 
+   kernel is like a heart of operating system....kernel of linux is called linux kernel
+   But kernel is written in some language which i may not know eg C.
+   Here comes shell in picture which works as mediator between user and kernel and IT consists of shell commands like ls,ll etc.
+
+   Bootloader:-The bootloader is a program that is responsible for loading the operating system kernel into memory.
+   There are various bootloaders in Linux, some of the common ones are LILO, GRUB, BURG, and SYSLINUX
+
+-  7) Desktop environment
+
 -  8) Linux System Architecture?
+   Hardware--Kernel--shell--utility/application/etc--users
+
 -  9) Information about hardware?
 - 10) Linux file system?
 - 11) Difference between Linux and Unix?
