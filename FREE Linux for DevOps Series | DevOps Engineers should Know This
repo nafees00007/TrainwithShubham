@@ -37,7 +37,13 @@ In this video: https://www.youtube.com/watch?v=AGQGOhtRcTo
       3.AWS azzure GCP instance or VM 
       4.Vagrant by hashicorp  
       5.andmanymore. 
--  4) Difference between Linux and Windows?
+-  4) Difference between Linux and Windows? 
+      1.Window is having "commercial licence" which is paid whereas linux is having "GPL(general public licence)" which is free for public.
+      2.Linux generally focuses on development,networking,terminal,programming,scripting,No AntiVirus required
+      3. Windows is used for general purpose which is GUI oriented things.
+
+23.38
+
 -  5) Software remote location server tools?
 -  6) What are kernel, Bootloader, and shell?
 -  7) Desktop environment 
