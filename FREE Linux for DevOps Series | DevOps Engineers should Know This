@@ -1,22 +1,42 @@
 
 If you want to target DevOps Engineering Jobs in 2024, Linux for DevOps  is the first thing that you need to learn.
+In this video: https://www.youtube.com/watch?v=AGQGOhtRcTo
 
-In this video:
 
 - How does the Internet Work?
-- What is a server?
+  mymobile--ISP(it install router and other required setup)--opticalfibre(inside sea) or fibrecable--datacenter.
+
+- What is the diffrence between server and client?
+  server is responsible to serve the query and client will request his query from the server.
+
 - Difference between a web server and an application server?
+  webserver generally serve staticdata(nginx)  whereas application server serves dynamicdata(django,nodejs).
+
 - Types of applications?
+  in general thereare 2 types of application. standalone and web application.
+
 - What are standalone apps?
+  A program that does not require operating system's services to run.
+  A portable application, which can be run without the need for installation procedure.There is no need of database,frontend,backend etc
+
 - What are web applications?
+  A web application is software that runs in your web browser.
+  Businesses have to exchange information and deliver services remotely. They use web applications to connect with customers conveniently and securely.
+  It requires database,frontend,backend and many more things to operate 
+
 - What is application support?
 - What is application maintenance?
 
 - *Introduction of Linux - 
 
 -  1) What is Linux? Introduction to Linux Operating System(OS)
--  2) How to install Linux?
--  3) how to download & install Linux (Ubuntu) on a Windows PC?
+-  2) How to install Linux? 
+-  3) how to download & install Linux (Ubuntu) on a Windows PC? 
+      1.WSL (windows subsystem for linux)
+      2.VirtualBox("https://www.youtube.com/watch?v=4Ei2_q-LDjk"(How to install Ubuntu 20.04 on any computer | Virtual-box tutorial))
+      3.AWS azzure GCP instance or VM 
+      4.Vagrant by hashicorp  
+      5.andmanymore. 
 -  4) Difference between Linux and Windows?
 -  5) Software remote location server tools?
 -  6) What are kernel, Bootloader, and shell?
